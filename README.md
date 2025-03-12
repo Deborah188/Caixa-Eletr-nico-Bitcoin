@@ -48,4 +48,5 @@ Copie e cole o código do caixa eletrônico.
 Clique no botão Executar (Run) para rodar o programa.
 
 Após rodar o codigo coloque o Usuario e Senha 
-Usuario: 
+Usuario: admin
+Senha: 1234
